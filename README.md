@@ -1,10 +1,52 @@
-- 👋 Hi, I’m @pannuc
-- 👀 I’m interested in becoming a full-stack software engineer
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on pretty much anything
-- 📫 How to reach me pannucoyt@gmail.com
+### Hi, I'm pannuc 👋
 
-<!---
-pannuc/pannuc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Aspiring **cybersecurity analyst** working toward a SOC / blue-team role. I learn in public—everything I study, I document and practice hands-on. Really a red-team by heart.
+
+---
+
+🔭 **Currently working on**
+- Google Cybersecurity Certificate *(in progress)*
+- Hands-on labs on TryHackMe
+
+
+🌱 **Learning next**
+- CompTIA Security+
+- Building a home lab (Kali Linux)
+- SIEM & log analysis (Splunk, Wireshark)
+- Detection and incident response fundamentals
+
+🛠️ **Tools & skills**
+- Linux command line — `grep`, enumeration, file/permission basics
+- HTTP request analysis with Burp Suite
+- Content/directory enumeration — `dirb`, learning `gobuster` & `ffuf`
+- Security fundamentals — CIA triad, risk, frameworks
+
+---
+
+### 📂 Explore my work
+
+- 📝 [**cybersecurity-notes**](#) — cheatsheets, concept notes, course summaries
+- 🧪 [**tryhackme-writeups**](#) — room walkthroughs & lessons learned
+- 🖥️ [**home-lab**](#) — my Kali VM setup and configs
+
+*(Swap the `#` for your real repo links once they're up.)*
+
+---
+
+### 📫 Connect
+
+- LinkedIn — [your link]
+- TryHackMe — [your profile]
+
+---
+
+<!-- OPTIONAL EXTRAS — keep what you like, delete the rest -->
+
+<!-- Tech badges -->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+
+<!-- GitHub stats card — auto-updates once you have repos with activity -->
+<!-- ![pannuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=pannuc&show_icons=true&theme=dark) -->
