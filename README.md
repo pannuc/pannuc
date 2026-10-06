@@ -11,7 +11,7 @@ Aspiring **cybersecurity analyst** working toward a SOC / blue-team role. I lear
 
 🌱 **Learning next**
 - CompTIA Security+
-- Building a home lab (Kali Linux)
+- Building a home lab (Kali Linux) ✅
 - SIEM & log analysis (Splunk, Wireshark)
 - Detection and incident response fundamentals
 
@@ -28,8 +28,6 @@ Aspiring **cybersecurity analyst** working toward a SOC / blue-team role. I lear
 - 📝 [**cybersecurity-notes**](https://github.com/pannuc/cs-notes) — cheatsheets, concept notes, course summaries
 - 🧪 [**tryhackme-writeups**](https://github.com/pannuc/thm-writeups) — room walkthroughs & lessons learned
 - 🖥️ [**home-lab**](https://github.com/pannuc/home-lab) — my Kali VM setup and configs
-
-*(Swap the `#` for your real repo links once they're up.)*
 
 ---
 
