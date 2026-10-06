@@ -1,6 +1,6 @@
 ### Hi, I'm pannuc 👋
 
-Aspiring **cybersecurity analyst** working toward a SOC / blue-team role. I learn in public—everything I study, I document and practice hands-on. Really a red-team by heart.
+Aspiring **cybersecurity analyst** working toward a SOC / blue-team role. I learn in public—I document everything I study and practice it hands-on. Really a red-team by heart.
 
 ---
 
@@ -25,9 +25,9 @@ Aspiring **cybersecurity analyst** working toward a SOC / blue-team role. I lear
 
 ### 📂 Explore my work
 
-- 📝 [**cybersecurity-notes**](#) — cheatsheets, concept notes, course summaries
-- 🧪 [**tryhackme-writeups**](#) — room walkthroughs & lessons learned
-- 🖥️ [**home-lab**](#) — my Kali VM setup and configs
+- 📝 [**cybersecurity-notes**](https://github.com/pannuc/cs-notes) — cheatsheets, concept notes, course summaries
+- 🧪 [**tryhackme-writeups**](https://github.com/pannuc/thm-writeups) — room walkthroughs & lessons learned
+- 🖥️ [**home-lab**](https://github.com/pannuc/home-lab) — my Kali VM setup and configs
 
 *(Swap the `#` for your real repo links once they're up.)*
 
@@ -35,8 +35,8 @@ Aspiring **cybersecurity analyst** working toward a SOC / blue-team role. I lear
 
 ### 📫 Connect
 
-- LinkedIn — [your link]
-- TryHackMe — [your profile]
+- [LinkedIn]
+- [TryHackMe](https://tryhackme.com/p/pannuco)
 
 ---
 
