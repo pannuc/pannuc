@@ -35,7 +35,7 @@ Aspiring **cybersecurity analyst** working toward a SOC / blue-team role. I lear
 
 ### 📫 Connect
 
-- [LinkedIn]
+- [LinkedIn](https://www.linkedin.com/in/adamitcheley-francis-906166231/?isSelfProfile=true)
 - [TryHackMe](https://tryhackme.com/p/pannuco)
 
 ---
